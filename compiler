@@ -1,0 +1,6 @@
+#!/bin/bash
+pwd
+mkdir ./build
+cd build
+cmake ..
+make
